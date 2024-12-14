@@ -1,5 +1,5 @@
 const prompt = require("prompt-sync")();
-let num = parseInt(prompt("Informe um número: "));
+let num = parseInt(prompt("Digite um número: "));
 
 let primo = true;
 if (num <= 1) {
